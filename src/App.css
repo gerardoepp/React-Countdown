@@ -11,7 +11,7 @@
 .Clock-hours,
 .Clock-seconds,
 .Clock-days,
-.Clock-minutes {
+.Clock-minutes{
   display: inline;
   margin: 10px;
 }
